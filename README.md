@@ -43,6 +43,7 @@ Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 
 Topic 3: Game
 
+- 本遊戲 framework 由[陳偉凱老師](http://www.cc.ntut.edu.tw/~wkchen/)開發，並成為北科資工系大學部重要訓練課程。
 - Game is an application framework for developing 2D games
 - Game framework was created in 1998 as an object library that provides ready-to-use graphics and sound objects for CSIE OOP lab class.  Over the years, Game has undergone several revisions and evolved into an application framework.
 - The Windows version of Game framework is implemented with the Microsoft VC++ based on MFC and DirectX. Starting from 2011, an Android version Game framework is also offered.
