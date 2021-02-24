@@ -2,7 +2,7 @@
 
 Week 1 - 02/26
 
-Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/3.%20Slides)
+Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/OOPL_Week_1.pdf)
 
 - 學期成績
     - 平時成績 -> 20% 
