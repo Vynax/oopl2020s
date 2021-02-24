@@ -19,10 +19,19 @@ Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109
 - 課程進行
     - 學期中老師(或助教)每隔週(或隔兩週)會考察一次進度，考察的目的是了解遊戲程式的進度，並協助解決程式設計的問題。
     - 平時成績以每次考察時進度之控制為計分標準，進度愈快者成績愈佳。
+    - **第二週時需選定遊戲完成分組，並於第二週展示原本遊戲內容與操作方式給老師或助教看。**
     - **第三週未完成 Git 練習者，每樣練習扣平時成績 10 分。**
     - 期末實習報告應指出組員的分工情形以及組員對實習貢獻百分比，以供調整評分之參考。
     - 為量化各組每週投入實習的時間與程式的數量，每次上課時，各組均須上網填寫前一週用於製作遊戲程式的時間與工作內容，並上傳程式。
-
+- Content of this semester
+    - 本學期將分組(每組以兩人為限)，製作一個遊戲程式
+    - 請根據課程提供的遊戲 framework 進行遊戲開發，不得使用其他 framework
+    - 三選一 Windows/Android/HTML5 遊戲程式設計與製作
+- Goal of this course
+    - Get you familiar with a big project
+    - Put the concept of OOP into real use
+    - Writing codes as a team
+    
 Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 
 - 為節省本實驗之硬碟空間，本學期請至 [GitHub](https://github.com/) 註冊帳號
