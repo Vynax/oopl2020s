@@ -2,7 +2,7 @@
 
 Week 1 - 02/26
 
-Topic 1: Introducing the course [Slides](url)
+Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/3.%20Slides)
 
 - 學期成績
     - 平時成績 -> 20% 
@@ -39,7 +39,7 @@ Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
     - 練習一、二、三、五、六 (***required)
 - 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
 - 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
-- [Practice](url) can be found on this Gitlab Project
+- [Practice](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/1.%20Practice%20Git) can be found on this Gitlab Project
 
 Topic 3: Game
 
@@ -51,5 +51,5 @@ Topic 3: Game
     - A simple and easy-to-use bitmap graphic object and a sound object
     - Built-in state control for game and main control loop with overridable game speed control
     - The selection of the full screen mode and the window mode for presenting the game.
-- [Documentation](url) can be found on this Gitlab Project
+- [Documentation](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation) can be found on this Gitlab Project
 
