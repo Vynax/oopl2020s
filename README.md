@@ -49,7 +49,7 @@ Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 - 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
 - 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
 
-Topic 3: Game
+Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/Intro_to_GameFramework.pdf)
 
 - 本遊戲 framework 由[陳偉凱老師](http://www.cc.ntut.edu.tw/~wkchen/)開發，並成為北科資工系大學部重要訓練課程。
 - Game is an application framework for developing 2D games
