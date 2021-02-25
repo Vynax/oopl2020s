@@ -2,6 +2,8 @@
 
 Week 1 - 02/26
 
+不接受遠距教學，如果你有同學加選但無法到課堂上上課，請他退選。
+
 Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/OOPL_Week_1.pdf)
 
 - 學期成績
