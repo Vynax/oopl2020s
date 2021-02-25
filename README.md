@@ -31,25 +31,8 @@ Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109
     - Get you familiar with a big project
     - Put the concept of OOP into real use
     - Writing codes as a team
-    
-Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 
-- 為節省本實驗之硬碟空間，本學期請至 [GitHub](https://github.com/) 註冊帳號
-- 兩人一組(分別稱為某甲與某乙)
-    - 某甲 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)、練習[二](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-2.pdf)
-    - 某乙 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)
-    - 某甲 練習[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、練習[四](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-4.pdf)
-    - 某乙 練習[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、練習[五](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-5.pdf)
-    - 某甲 練習[六](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-6.pdf)、練習[七-甲](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-7A.pdf)
-    - 某乙 練習[七-乙](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-7B.pdf)
-    - 某甲 練習[八-甲](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-8A.pdf)
-    - 某乙 練習[八-乙](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-8B.pdf)
-- 一人一組(稱為某甲)
-    - 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)、[二](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-2.pdf)、[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、[五](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-5.pdf)、[六](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-6.pdf)
-- 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
-- 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
-
-Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/Intro_to_GameFramework.pdf)
+Topic 2: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/Intro_to_GameFramework.pdf)
 
 - 本遊戲 framework 由[陳偉凱老師](http://www.cc.ntut.edu.tw/~wkchen/)開發，並成為北科資工系大學部重要訓練課程。
 - Game is an application framework for developing 2D games
@@ -80,4 +63,20 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
         - Follow the HTML5 tutorials above to add new functionalities or objects to the Game.
 - [Documentation](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation) can be found on this Gitlab Project
 
+Topic 3: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 
+- 為節省本實驗之硬碟空間，本學期請至 [GitHub](https://github.com/) 註冊帳號
+- 在你平時會開發的電腦上設定，別在電腦教室設定，他每次都會不見
+- 兩人一組(分別稱為某甲與某乙)
+    - 某甲 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)、練習[二](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-2.pdf)
+    - 某乙 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)
+    - 某甲 練習[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、練習[四](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-4.pdf)
+    - 某乙 練習[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、練習[五](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-5.pdf)
+    - 某甲 練習[六](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-6.pdf)、練習[七-甲](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-7A.pdf)
+    - 某乙 練習[七-乙](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-7B.pdf)
+    - 某甲 練習[八-甲](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-8A.pdf)
+    - 某乙 練習[八-乙](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-8B.pdf)
+- 一人一組(稱為某甲)
+    - 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)、[二](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-2.pdf)、[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、[五](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-5.pdf)、[六](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-6.pdf)
+- 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
+- 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
