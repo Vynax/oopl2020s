@@ -62,8 +62,24 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
     - The selection of the full screen mode and the window mode for presenting the game.
 - We have three diffferent plarforms for games
     - Windows [Source]() [Document]()
+        - Please download the source code version if you are planning to develop a game under Windows 8/Windows 10.
+        - Please follow the following installation instructions to compile and execute the game framework and its sample program.
+            1. Install Microsoft Visual Studio 2017 C++
+            2. Download and decompress the zip file of source code.
+            3. Double click game.sln to open the source code.
+        - Compile and execute the sample game. If compilation fails, make sure your Visual Studio and DirectX SDK versions are correct.
+        - Follow the tutorials above to add new functionalities or objects to the Game.
+        - When your game is fully developed, follow the game deployment instructions above to create setup files for your game.
     - Android [Source]() [Document]()
+        - Please download the source code version if you are planning to develop a game under Android
+        - Please follow the following installation instructions to compile and execute the game framework and its sample program.
+            1. Install Android Studio,  import game framework, and compile/execute game framework
+            2. Follow the Android tutorials above to add new functionalities or objects to the Game.
+            3. When your game is fully developed, follow the game deployment instructions above to install the game on the phone
     - HTML 5 [Source]() [Document]()
+        - Please download the file and use a browser to execute the sample game
+        - Follow the HTML5 tutorials above to add new functionalities or objects to the Game.
+ 
 - [Documentation](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation) can be found on this Gitlab Project
 
 
