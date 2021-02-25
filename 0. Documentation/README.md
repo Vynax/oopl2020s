@@ -7,7 +7,7 @@
 - [OOPLab paper published in the conference TCSE 2005](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/ooplab_tcse_paper.pdf)
 - [遊戲地圖與座標系統概論](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/%E9%81%8A%E6%88%B2%E5%9C%B0%E5%9C%96%E8%88%87%E5%BA%A7%E6%A8%99%E7%B3%BB%E7%B5%B1%E6%A6%82%E8%AB%96.pdf)
 
-- Windows
+- Windows\ 
     - Tutorial #1 Prepare a Bitmap
     - Tutorial #2 Display a Bitmap
     - Tutorial #3 Move a Bitmap
@@ -17,7 +17,7 @@
     - Tutorial #7 Using Debugger (***required)
     - Create Setup file (VS2015)
 
-- Andorid
+- Andorid\ 
     - Tutorial #1 Prepare a Bitmap
     - Tutorial #2 Display a Bitmap
     - Tutorial #3 Move a Bitmap
@@ -28,7 +28,7 @@
     - Deploy your game on Android phone
     - API: GameState API (HTML)
 
-- HTML5
+- HTML5\ 
     - Tutorial #1A: Prepare and display a bitmap
     - Tutorial #1B: Prepare and display a bitmap
     - Tutorial #2: Move and rotate a bitmap
