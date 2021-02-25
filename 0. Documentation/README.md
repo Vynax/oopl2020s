@@ -18,6 +18,7 @@
     - Tutorial #7 Using Debugger (***required)
     - Create Setup file (VS2015)
 
+
 - Andorid
     - Overview
     - Tutorial #1 Prepare a Bitmap (1A, 1B)
@@ -29,6 +30,7 @@
     - Tutorial #7 Using Debugger (***required)
     - Deploy your game on Android phone
     - API: GameState API (HTML)
+
 
 - HTML5
     - Tutorial #1A: Prepare and display a bitmap
