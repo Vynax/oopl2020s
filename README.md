@@ -61,7 +61,7 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
     - Built-in state control for game and main control loop with overridable game speed control
     - The selection of the full screen mode and the window mode for presenting the game.
 - We have three diffferent plarforms for games
-    - Windows [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/game4.10.zip), [Tutorial](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation)
+- Windows [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/game4.10.zip), [Tutorial](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation)
         - Please download the source code version if you are planning to develop a game under Windows 8/Windows 10.
         - Please follow the following installation instructions to compile and execute the game framework and its sample program.
             1. Install Microsoft Visual Studio 2017 C++
