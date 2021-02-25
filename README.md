@@ -61,7 +61,7 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
     - Built-in state control for game and main control loop with overridable game speed control
     - The selection of the full screen mode and the window mode for presenting the game.
 - We have three diffferent plarforms for games
-    - Windows [Source](), [Document]()
+    - Windows [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/game4.10.zip), [Tutorial]()
         - Please download the source code version if you are planning to develop a game under Windows 8/Windows 10.
         - Please follow the following installation instructions to compile and execute the game framework and its sample program.
             1. Install Microsoft Visual Studio 2017 C++
@@ -70,13 +70,12 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
         - Compile and execute the sample game. If compilation fails, make sure your Visual Studio and DirectX SDK versions are correct.
         - Follow the tutorials above to add new functionalities or objects to the Game.
         - When your game is fully developed, follow the game deployment instructions above to create setup files for your game.
-    - Android [Source](),  [Document]()
+    - Android [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/androidGameV2.4.rar), [Tutorial]()
         - Please download the source code version if you are planning to develop a game under Android
         - Please follow the following installation instructions to compile and execute the game framework and its sample program.
-            1. Install Android Studio,  import game framework, and compile/execute game framework
-            2. Follow the Android tutorials above to add new functionalities or objects to the Game.
-            3. When your game is fully developed, follow the game deployment instructions above to install the game on the phone
-    - HTML 5 [Source](),  [Document]()
+            1. Follow the [Android tutorials](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/Android_tutorials.pdf) to add new functionalities or objects to the Game.
+            2. When your game is fully developed, follow the game deployment instructions above to install the game on the phone
+    - HTML 5 [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/html5_game3.3.zip), [Tutorial]()
         - Please download the file and use a browser to execute the sample game
         - Follow the HTML5 tutorials above to add new functionalities or objects to the Game.
  
