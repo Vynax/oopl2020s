@@ -48,7 +48,6 @@ Topic 2: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
     - 練習[一](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-1.pdf)、[二](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-2.pdf)、[三](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-3.pdf)、[五](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-5.pdf)、[六](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/1.%20Practice%20Git/GitTutorial-6.pdf)
 - 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
 - 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
-- [Practice](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/1.%20Practice%20Git) can be found on this Gitlab Project
 
 Topic 3: Game
 
