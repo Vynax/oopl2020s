@@ -78,7 +78,6 @@ Topic 3: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
     - HTML 5 [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/html5_game3.3.zip), [Tutorial](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation)
         - Please download the file and use a browser to execute the sample game
         - Follow the HTML5 tutorials above to add new functionalities or objects to the Game.
- 
 - [Documentation](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation) can be found on this Gitlab Project
 
 
