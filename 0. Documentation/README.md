@@ -16,7 +16,7 @@
     - Tutorial #6 Handle Memory Leaks
     - Tutorial #7 Using Debugger (***required)
     - Create Setup file (VS2015)
-<br>
+  
 - Andorid
     - Tutorial #1 Prepare a Bitmap
     - Tutorial #2 Display a Bitmap
@@ -27,7 +27,7 @@
     - Tutorial #7 Using Debugger (***required)
     - Deploy your game on Android phone
     - API: GameState API (HTML)
-
+  
 - HTML5
     - Tutorial #1A: Prepare and display a bitmap
     - Tutorial #1B: Prepare and display a bitmap
