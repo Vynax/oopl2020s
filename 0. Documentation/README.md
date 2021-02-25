@@ -16,7 +16,7 @@
     - Tutorial #6 Handle Memory Leaks
     - Tutorial #7 Using Debugger (***required)
     - Create Setup file (VS2015)
-
+<br>
 - Andorid
     - Tutorial #1 Prepare a Bitmap
     - Tutorial #2 Display a Bitmap
