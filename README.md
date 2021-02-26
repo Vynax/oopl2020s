@@ -4,6 +4,8 @@ Week 1 - 02/26
 
 不接受遠距教學，如果你有同學加選但無法到課堂上上課，請他退選。
 
+**請好好閱讀課程需求，選擇的遊戲必須滿足(1)會死掉或闖關失敗(2)要分關卡，評分標準包含遊戲難度與。**
+
 Topic 1: Introducing the course [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/OOPL_Week_1.pdf)
 
 - 學期成績
@@ -45,6 +47,7 @@ Topic 2: Game [Introduction to Game Framework](https://css-gitlab.csie.ntut.edu.
     - A simple and easy-to-use bitmap graphic object and a sound object
     - Built-in state control for game and main control loop with overridable game speed control
     - The selection of the full screen mode and the window mode for presenting the game.
+- 進行遊戲開發之前，請閱讀程式碼與[投影片](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/Intro_to_GameFramework.pdf)，並完成各平台的 tutorial 再開始寫自己的遊戲。
 - We have three diffferent plarforms for games
     - Windows [Source](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/4.%20Source%20Code/game4.10.zip), [Tutorial](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/tree/master/0.%20Documentation)
         - Please download the source code version if you are planning to develop a game under Windows 8/Windows 10.
