@@ -7,6 +7,8 @@ Week 2 - 03/05
 3. 請善用助教時間，本週將會研討延長整題的助教時間。
 4. 下周一開始你應該已經完成 tutorial 並且著手開發遊戲。
 5. 未符合課程要求的遊戲，將酌量調整成績。
+6. Time Log 網站是 https://toggl.com/track/ 使用方法請參照投影片 [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/OOPL_Week_1.pdf)
+
 
 Week 1 - 02/26
 
