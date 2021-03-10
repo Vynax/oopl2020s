@@ -1,5 +1,15 @@
 # Object-Oriented Programming Labs
 
+Week 2 - 03/05
+
+1. 再次強調不接受遠距教學，請告訴你遠距的同學退選。
+2. 因為修課人數眾多且分兩間教室，為了更好收集大家對課程的問題，每次上課都會有 Zuvio 的問答，回答與否將列入平時成績。
+3. 請善用助教時間，本週將會研討延長整題的助教時間。
+4. 下周一開始你應該已經完成 tutorial 並且著手開發遊戲。
+5. 未符合課程要求的遊戲，將酌量調整成績。
+6. Time Log 網站是 https://toggl.com/track/ 使用方法請參照投影片 [Slides](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/3.%20Slides/OOPL_Week_1.pdf)
+
+
 Week 1 - 02/26
 
 不接受遠距教學，如果你有同學加選但無法到課堂上上課，請他退選。
