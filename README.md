@@ -110,7 +110,7 @@ FAQ
     - Question 5: CAnimation這個class有沒有支援deep copy？
         - Answer: 沒有，如果需要的話，請自己寫CAnimation的copy constructor。
     - Question 6: 我想要做Game的單元測試，怎麼樣才能帶入Google Test (gtest)呢？
-        - Answer: 參考GameFramework with Google Test(https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/GameFramework%20with%20gtest.pdf) 文件
+        - Answer: 參考[GameFramework with Google Test](https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/GameFramework%20with%20gtest.pdf)文件
 - Android version
     - Question 1: 我希望畫面能有兩個地方同時被觸控，如何寫code處理這種multi-touch？
         - Answer:  當pointerPressed(List<Pointer> pointers)時，參數其實是一個List，multi-touch的各個點都會出現在pointers這個List裡面。你的程式只要判斷List裡面的每個Pointer，即可達成處理multi-touch的能力。
