@@ -86,5 +86,30 @@ Topic 3: Practice using Git with [SourceTree](https://www.sourcetreeapp.com/)
 - 第三週未完成練習者，每樣練習扣平時成績 10 分。(before 2021/3/12)
 - 請於第三週上課時間，將練習成果展現給老師或是助教檢查。(on 2021/3/12)
 
+FAQ
+
+- Windows version
+    - Question 1: console (printf) 能在Game Framework 下使用嗎?
+        - Answer: TRACE指令可以替代printf，例如TRACE("%d\n", x); 就會把x印出來。當使用debug mode執行程式時，找一個名為Output的視窗(View->Output)，TRACE指令所列印的資料會 顯示在此視窗。
+    - Question 2: 使用pDC->TextOut(...)顯示文字時，文字的背景可以設定為透明嗎？
+        - Answer: 顯示文字前先執行pDC->SetBkMode(TRANSPARENT);即可。
+    - Question 3: Game Framework預設有三種state (init, run, over)，但這三種state似乎都是互相獨立的， 有沒有方法可以定義變數，讓三種狀態都可以取用。 例如讓在run狀態時的計分用的int score，可以傳到over的狀態顯示給玩家看。
+        - Answer: (1) 比較簡單的方法是在Base class，即GameState中加入static的變數(注意是static變數)，那麼每個繼承的state都能共用此變數了，但是這樣寫用到static變數有點髒。(2) 比較勤勉的方法是先宣告一個class S，裡面放所有需要共享的變數，然後在Game或MyGame中宣告一個S的變數s，並將s的pointer傳給各個state，這樣各state就可以分享相同的變數了；那麼又怎麼把s傳給各個state呢？先在GameState的變數宣告中增加一個S的pointer，然後利用constructor (或自己訂一個副程式)的參數代入s的pointer再存起來。
+    - Question 4: 我的遊戲用到很多很多圖形(CMovingBitmap)，不知何故，當載入太多圖形時遊戲會當掉。
+        - GameFramework有bug，在gamelib.cpp檔的副程式void CMovingBitmap::LoadBitmap(char *filename, COLORREF color)中，使用到HBITMAP， 再轉換為CBitmap物件，但是使用後漏了釋放，請在此副程式結束前，加一行 bmp->DeleteObject()釋放此物件。
+    - Question 5: CAnimation這個class有沒有支援deep copy？
+        - Answer: 沒有，如果需要的話，請自己寫CAnimation的copy constructor。
+    - Question 6: 我想要做Game的單元測試，怎麼樣才能帶入Google Test (gtest)呢？
+        - Answer: 參考GameFramework with Google Test(https://css-gitlab.csie.ntut.edu.tw/109000000/oopl2020s/-/blob/master/0.%20Documentation/GameFramework%20with%20gtest.pdf)文件
+- Android version
+    - Question 1: 我希望畫面能有兩個地方同時被觸控，如何寫code處理這種multi-touch？
+        - Answer:  當pointerPressed(List<Pointer> pointers)時，參數其實是一個List，multi-touch的各個點都會出現在pointers這個List裡面。你的程式只要判斷List裡面的每個Pointer，即可達成處理multi-touch的能力。
+- HTML5 version
+    - Question 1: 我的GameLevel的draw副程式為什麼不會被執行到？導致畫面更新不正確。
+        - Answer: 目前HTML5版的GameFramework有bug，當某GameLevel未attach任何Sprite至rootScene時，draw就不會被呼叫。解決的方法是在GameLevel中至少attach一個Sprite到rootScene，且該Sprite的座標必須在update中不斷變更，那麼GameLevel的draw就會正確被呼叫。
+    - Question 2: 如何變更遊戲畫面的長寬比？
+        - Answer: src/game.js第49行that.idealWidth及that.idealHeight設定畫面的長寬比。
+
+
 
 
